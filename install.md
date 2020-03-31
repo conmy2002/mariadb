@@ -1,6 +1,6 @@
 # mariadb server 安裝
 
-各系統安裝方式可由[此處](https://downloads.mariadb.org/mariadb/repositories)查閱，亦可由[此處](https://mariadb.com/downloads/)直接下載檔案，查閱 README 的內容進行安裝。
+各系統安裝方式可由[此處](https://downloads.mariadb.org/mariadb/repositories)查閱，亦可由[此處](https://downloads.mariadb.org/mariadb/10.4.12)查閱。
 
 ## 實際演練
 
